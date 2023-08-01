@@ -1,4 +1,4 @@
-package aulas.alura.projeto.spring.infra;
+package aulas.alura.projeto.spring.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.apache.coyote.Response;
